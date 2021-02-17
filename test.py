@@ -1,0 +1,1 @@
+print("Your BMI is:", 52 / (1.59 ** 2))
